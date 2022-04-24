@@ -12,7 +12,7 @@ URL: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=2059
 ## Our Presentation Slide:
 View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szhm5aEjXTaxSfjis/edit?usp=sharing
 
-Download From:
+Download From: https://github.com/hibye0714/SC1015_mini_project_grp_5/blob/494281658422a5d2d5292764e59391bc636c1fa0/Group%205%20Slides.pptx
 
 ## Conclusion(Insights):
 We found that the most useful variables to predict Gender of a Customer are the time they visited, the total amount they spent, the rating they gave, product line of items bought and the day of visit.
