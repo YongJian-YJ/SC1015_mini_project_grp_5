@@ -15,7 +15,7 @@ View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szh
 Download From:
 
 ## Conclusion(Insights):
-
+-wait for shawn
 
 ## Recommendation:
 1.Increase the quantity of Fashion & Accessories products (most popular product line for female)  in store to target to more females (as they have an average higher spending) -- in order to increase sales<br /><br />
