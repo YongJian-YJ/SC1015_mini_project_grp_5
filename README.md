@@ -2,7 +2,7 @@
 Done by Nicole, Yong Jian, Shawn
 
 ## What we want to explore:
-  1.Explore which purchasing habits differentiate Males and Females apart. From this, how successful will the model created be in predicting whether a customer is a Male of Female?
+  1.Explore which purchasing habits differentiate Males and Females apart. From this, how successful will the model created be in predicting whether a customer is a Male of Female?<br />
   2.For each variable that distinguishes male and female customers, we will try to explore the rationale behind it to gain further insights.
   
 ## Data Sets from:
