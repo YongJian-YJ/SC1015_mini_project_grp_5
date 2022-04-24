@@ -16,6 +16,15 @@ Download From:https://github.com/hibye0714/SC1015_mini_project_grp_5/blob/ecf9bc
  
 ## Conclusion:
 
+ 
+## What did we learn from this project:
+ 
+
+## Machine Learning Models Used:
+ 1.Decision Tree<br />
+ 2.Decision Tree with one hot encoding<br />
+ 3.Random Forest
+ 
 ## Workload Distribution:
 1.Nicole<br />
   -text
@@ -25,7 +34,7 @@ Download From:https://github.com/hibye0714/SC1015_mini_project_grp_5/blob/ecf9bc
   
  3.Shawn<br />
   -text
-  
+ 
  ## References
 https://stackoverflow.com/questions/38067704/how-to-change-the-datetime-format-in-pandas<br />
 https://datascientyst.com/convert-datetime-day-of-week-name-number-in-pandas/<br />
