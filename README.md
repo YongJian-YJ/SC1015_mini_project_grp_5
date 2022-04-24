@@ -51,7 +51,11 @@ We found that the most useful variables to predict Gender of a Customer are the 
 
 
 3.Shawn<br />
-  -text
+  * One-hot encoding
+  * Data Cleaning
+  * Debugging of Warnings 
+  * Optimizing Plot Sizes for all data points to fit
+
  
  ## References
 https://stackoverflow.com/questions/38067704/how-to-change-the-datetime-format-in-pandas<br />
