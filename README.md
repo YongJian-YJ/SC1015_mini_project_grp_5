@@ -1,7 +1,7 @@
 # SC1015_mini_project_grp_5
 Done by Nicole, Yong Jian, Shawn
 
-## In out jupyter notebook, we have added in a table of content to navigate
+## In out jupyter notebook, we have added in a table of content to help with navigation
 <img width="492" alt="Screenshot 2022-04-24 at 4 36 54 PM" src="https://user-images.githubusercontent.com/48339717/164967974-72f1751e-6e57-473a-b555-bf71230aa141.png">
 
 ## What we want to explore:
