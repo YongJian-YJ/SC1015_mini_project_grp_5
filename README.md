@@ -14,9 +14,13 @@ View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szh
 
 Download From:
 
-## Conclusion:
+## Conclusion(Insights):
+
 
 ## Recommendation:
+1.Increase the quantity of Fashion & Accessories products (most popular product line for female)  in store to target to more females (as they have an average higher spending) -- in order to increase sales<br /><br />
+2.Implement a ladies discount every Tuesday & Saturday (from opening hours to afternoon 3pm), where frequency of females visiting is highest 
+
  
 ## What did we learn from this project:
 1. Ability to identify and come up with data oriented problems and data-driven decisions<br />
