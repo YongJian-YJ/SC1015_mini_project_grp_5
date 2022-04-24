@@ -20,7 +20,7 @@ We found that the most useful variables to predict Gender of a Customer are the 
 
 ## Recommendation:
 1.Increase the quantity of Fashion & Accessories products (most popular product line for female)  in store to target to more females (as they have an average higher spending) -- in order to increase sales<br /><br />
-2.Implement a ladies discount every Tuesday & Saturday (from opening hours to afternoon 3pm), where frequency of females visiting is highest 
+2.Implement a ladies discount every Tuesday & Saturday (from opening hours to afternoon 3pm), where frequency of females visiting is highest -- to attract more female customers and increase sales
 
 ## In out jupyter notebook, we have added in a table of content to help with navigation (only works in Jupyter Notebook)
 <img width="492" alt="Screenshot 2022-04-24 at 4 36 54 PM" src="https://user-images.githubusercontent.com/48339717/164967974-72f1751e-6e57-473a-b555-bf71230aa141.png">
@@ -33,9 +33,10 @@ We found that the most useful variables to predict Gender of a Customer are the 
 4. Apply basic machine learning tools to extract inferential information from the data
 
 ## Machine Learning Models Used:
- 1.Decision Tree<br />
- 2.Decision Tree with one hot encoding<br />
- 3.Random Forest
+ 1.Multivariate Classification Tree Tree<br />
+ 2.Logistics Regression with one hot encoding<br />
+ 3.Multivariate Classification Tree with one hot encoding<br />
+ 4.Random Forest
  
 ## Workload Distribution:
 1.Nicole<br />
