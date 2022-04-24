@@ -1,5 +1,7 @@
 # SC1015_mini_project_grp_5
 Done by Nicole, Yong Jian, Shawn
+
+## In out jupyter notebook, we have added in a table of content to navigate
 <img width="871" alt="Screenshot 2022-04-24 at 10 22 28 AM" src="https://user-images.githubusercontent.com/48339717/164967879-50a568f4-97ea-4cff-9987-38ab9bacc615.png">
 
 ## What we want to explore:
