@@ -1,9 +1,6 @@
 # SC1015_mini_project_grp_5
 Done by Nicole, Yong Jian, Shawn
 
-## In out jupyter notebook, we have added in a table of content to help with navigation
-<img width="492" alt="Screenshot 2022-04-24 at 4 36 54 PM" src="https://user-images.githubusercontent.com/48339717/164967974-72f1751e-6e57-473a-b555-bf71230aa141.png">
-
 ## What we want to explore:
   1.Explore which purchasing habits differentiate Males and Females apart. From this, how successful will the model created be in predicting whether a customer is a Male of Female?<br />
   2.For each variable that distinguishes male and female customers, we will try to explore the rationale behind it to gain further insights.
@@ -25,6 +22,8 @@ We found that the most useful variables to predict Gender of a Customer are the 
 1.Increase the quantity of Fashion & Accessories products (most popular product line for female)  in store to target to more females (as they have an average higher spending) -- in order to increase sales<br /><br />
 2.Implement a ladies discount every Tuesday & Saturday (from opening hours to afternoon 3pm), where frequency of females visiting is highest 
 
+## In out jupyter notebook, we have added in a table of content to help with navigation (only works in Jupyter Notebook)
+<img width="492" alt="Screenshot 2022-04-24 at 4 36 54 PM" src="https://user-images.githubusercontent.com/48339717/164967974-72f1751e-6e57-473a-b555-bf71230aa141.png">
  
 ## What did we learn from this project:
 1. Ability to identify and come up with data oriented problems and data-driven decisions<br />
