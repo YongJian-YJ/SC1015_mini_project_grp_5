@@ -1,5 +1,6 @@
 # SC1015_mini_project_grp_5
 Done by Nicole, Yong Jian, Shawn
+<img width="871" alt="Screenshot 2022-04-24 at 10 22 28 AM" src="https://user-images.githubusercontent.com/48339717/164967879-50a568f4-97ea-4cff-9987-38ab9bacc615.png">
 
 ## What we want to explore:
   1.Explore which purchasing habits differentiate Males and Females apart. From this, how successful will the model created be in predicting whether a customer is a Male of Female?<br />
