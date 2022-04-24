@@ -6,8 +6,8 @@ Done by Nicole, Yong Jian, Shawn
   2.For each variable that distinguishes male and female customers, we will try to explore the rationale behind it to gain further insights.
   
 ## Data Sets from:
-(Title)<br />
-(URL Here)
+Title: Supermarket Sales<br />
+URL: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=205965&sortBy=voteCount
 
 ## Our Presentation Slide:
 View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szhm5aEjXTaxSfjis/edit?usp=sharing
