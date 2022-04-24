@@ -19,7 +19,11 @@ Download From:
 ## Recommendation:
  
 ## What did we learn from this project:
- 
+1. Ability to identify and come up with data oriented problems and data-driven decisions<br />
+2. Basic tools and techniques of data handling<br />
+3. Different models for Exploratory Data Analysis<br />
+4. Machine Learning Models for prediction<br />
+4. Apply basic machine learning tools to extract inferential information from the data
 
 ## Machine Learning Models Used:
  1.Decision Tree<br />
@@ -30,10 +34,10 @@ Download From:
 1.Nicole<br />
   -text
   
- 2.Yong Jian<br />
+2.Yong Jian<br />
   -text
   
- 3.Shawn<br />
+3.Shawn<br />
   -text
  
  ## References
