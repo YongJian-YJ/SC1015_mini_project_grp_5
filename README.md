@@ -12,8 +12,8 @@ Done by Nicole, Yong Jian, Shawn
 ## Our Presentation Slide:
 View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szhm5aEjXTaxSfjis/edit?usp=sharing
 
-Download From:https://github.com/hibye0714/SC1015_mini_project_grp_5/blob/ecf9bcf128e15089c6adce63b8dbbabbc2743524/SC12-Grp%205.pptx
- 
+Download From:
+
 ## Conclusion:
 
  
