@@ -15,6 +15,7 @@ View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szh
 Download From:
 
 ## Conclusion(Insights):
+We found that the most useful variables to predict Gender of a Customer are the time they visited, the total amount they spent, the rating they gave, product line of items bought and the day of visit.
 
 
 ## Recommendation:
@@ -36,11 +37,19 @@ Download From:
  
 ## Workload Distribution:
 1.Nicole<br />
-  -text
+  * Data Cleaning
+  * EDA Numerical Data
+  * Multivariate Classification Trees
+  * One-hot encoding & Logistics Regression
+
   
 2.Yong Jian<br />
-  -text
-  
+  * Data Cleaning
+  * Random Forest
+  * EDA for Categorical Data
+  * One-hot encoding
+
+
 3.Shawn<br />
   -text
  
