@@ -9,6 +9,9 @@ Done by Nicole, Yong Jian, Shawn
 Title: Supermarket Sales<br />
 URL: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=205965&sortBy=voteCount
 
+## About our Dataset
+The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. It contains data for each customer, including their gender, product line of item purchased, payment method, city, time of visit, total spending, etc. 
+
 ## Our Presentation Slide:
 View From: https://docs.google.com/presentation/d/14F73vWEWDeXvqPMwBpttYmvqk1Szhm5aEjXTaxSfjis/edit?usp=sharing
 
@@ -17,12 +20,13 @@ Download From: https://github.com/hibye0714/SC1015_mini_project_grp_5/blob/49428
 ## Conclusion(Insights):
 We found that the most useful variables to predict Gender of a Customer are the time they visited, the total amount they spent, the rating they gave, product line of items bought and the day of visit.
 
+The best improved accuracy we could reach when predicting a customer’s gender is 0.64, which is when we implemented random forest that utilises both the numerical and categorical variable combined.
 
 ## Recommendation:
 1.Increase the quantity of Fashion & Accessories products (most popular product line for female)  in store to target to more females (as they have an average higher spending) -- in order to increase sales<br /><br />
 2.Implement a ladies discount every Tuesday & Saturday (from opening hours to afternoon 3pm), where frequency of females visiting is highest -- to attract more female customers and increase sales
 
-## In out jupyter notebook, we have added in a table of content to help with navigation (only works in Jupyter Notebook)
+## In our jupyter notebook, we have added in a table of content to help with navigation (only works in Jupyter Notebook)
 <img width="492" alt="Screenshot 2022-04-24 at 4 36 54 PM" src="https://user-images.githubusercontent.com/48339717/164967974-72f1751e-6e57-473a-b555-bf71230aa141.png">
  
 ## What did we learn from this project:
